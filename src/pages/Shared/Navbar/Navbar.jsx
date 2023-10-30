@@ -104,7 +104,7 @@ const Navbar = () => {
             {navItems}
           </ul>
         </div>
-        <NavLink className="btn btn-ghost normal-case">
+        <NavLink>
           <img src={logo} alt="logo" className="h-14 w-20" />
         </NavLink>
       </div>
